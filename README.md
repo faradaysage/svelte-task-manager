@@ -23,7 +23,7 @@ Unlike React or Vue, **Svelte compiles code at build time**, eliminating the nee
 ## Project Structure
 
 ```
-svelte-todo/
+svelte-task-manager/
 ├── src/
 │   ├── assets/             # Static assets (icons, images, etc.)
 │   ├── components/         # UI Components
